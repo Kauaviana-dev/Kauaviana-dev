@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <img src="https://vercel.app" height="300" alt="activity graph" />
+  <img src="https://githubusercontent.com" alt="pacman contribution graph" />
 </div>
 
 ###
